@@ -3,8 +3,7 @@
 A lightweight browser-based snake game built with plain HTML, CSS, and JavaScript.
 
 ## Demo
-
-Open the project in your browser and start playing instantly.
+``https://msantanu33.github.io/desktop-snake-game/``
 
 ## Features
 
