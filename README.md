@@ -27,18 +27,6 @@ Open the project in your browser and start playing instantly.
 2. Open the project folder.
 3. Launch `index.html` in a browser.
 
-You can also serve it locally with a simple static server if preferred:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
 ## Project Structure
 
 ```text
@@ -46,7 +34,6 @@ snake-game-js/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
 ```
 
 ## Files Overview
